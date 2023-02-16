@@ -6,7 +6,7 @@ export const LoginPage = (): JSX.Element => {
 
   return (
     <div>
-      <h1>LoginPage</h1>
+      <h1 aria-label="loginTitle">LoginPage</h1>
     </div>
   )
 }
